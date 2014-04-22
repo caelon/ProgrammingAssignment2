@@ -1,3 +1,6 @@
+## cachematrix.R
+## Created on 2014-Apr-22 by Don VanDemark
+
 ## This set of code is for the Coursera course R Programming
 ## The purpose of the code is to cache the results of matrix invesion 
 ## calculations. Matrix operations can take a long time so this set of
